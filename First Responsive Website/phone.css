@@ -1,5 +1,4 @@
 header{
-    /* flex-wrap: wrap; */
     flex-direction: column;
     position: sticky;
     height: 140px;
@@ -13,7 +12,6 @@ header{
     display: inline-block;
     position: absolute;
     top: 0px;
-    /* border: 2px solid red; */
     border-left: 2px solid rgb(126, 5, 5);
     border-right: 2px solid rgb(126, 5, 5);
     border-bottom: 2px solid rgb(126, 5, 5);
@@ -47,7 +45,6 @@ header{
 
 #navbar ul li a{
     padding: 2px 0px;
-    /* font-size: 10px; */
     margin: 3px 10px;
     font-size: 20px;
 }
