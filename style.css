@@ -208,7 +208,7 @@ span{
 #home::before{
     content: "";
     position: absolute;
-    background: url('../brand_logo/Photos/header.png') no-repeat center center/cover;
+    background: url('./brand_logo/Photos/header.png') no-repeat center center/cover;
     height: 400px;
     width: 101%;
     z-index: -2;
@@ -301,7 +301,7 @@ span{
 #aboutUs::before{
     content: "";
     position: absolute;
-    background: url('../brand_logo/Photos/shop.png') no-repeat center center/cover;
+    background: url('./brand_logo/Photos/shop.png') no-repeat center center/cover;
     opacity: 0.5;
     height: 500px;
     width: 100%;
